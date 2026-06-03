@@ -22,13 +22,17 @@ class PythonDeveloper:
 - 🔹 Version control and collaboration with **Git**
 - 🔹 Learning best practices and design patterns
 
+## 📫 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kiarashkingdom@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kiarashkingdom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiarashkingdom)
+
+
+
 ## 🐍 Python Vibes
 
-> "Code is read much more often than it is written." – Python Zen
-
-## 📈 GitHub Stats
-
-![Kiarash's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiarashkingdom&show_icons=true&theme=radical)
+> "Code is read much more often than it is written."
 
 ## 💭 Words of Wisdom
 
