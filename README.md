@@ -1,10 +1,13 @@
 ## 💻 About Me
+
+```python
 class PythonDeveloper:
     def __init__(self):
         self.name = "Kiarash"
         self.role = "Python Developer"
         self.stack = ["Python", "Flask", "SQL", "Git"]
         self.focus = ["Web Development", "Problem Solving", "Learning Everyday"]
+```
 
 ## 🛠 Tech Stack
 
